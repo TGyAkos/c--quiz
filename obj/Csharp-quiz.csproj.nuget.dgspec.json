@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tamaskovits Gyula\\Csharp-quiz\\Quiz.csproj": {}
+    "D:\\Tamaskovits Gyula\\Csharp-quiz\\Csharp-quiz.csproj": {}
   },
   "projects": {
-    "D:\\Tamaskovits Gyula\\Csharp-quiz\\Quiz.csproj": {
+    "D:\\Tamaskovits Gyula\\Csharp-quiz\\Csharp-quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tamaskovits Gyula\\Csharp-quiz\\Quiz.csproj",
-        "projectName": "Quiz",
-        "projectPath": "D:\\Tamaskovits Gyula\\Csharp-quiz\\Quiz.csproj",
+        "projectUniqueName": "D:\\Tamaskovits Gyula\\Csharp-quiz\\Csharp-quiz.csproj",
+        "projectName": "Csharp-quiz",
+        "projectPath": "D:\\Tamaskovits Gyula\\Csharp-quiz\\Csharp-quiz.csproj",
         "packagesPath": "C:\\Users\\tanulo\\.nuget\\packages\\",
         "outputPath": "D:\\Tamaskovits Gyula\\Csharp-quiz\\obj\\",
         "projectStyle": "PackageReference",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "MySql.Data": {
-              "target": "Package",
-              "version": "[8.0.31, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

@@ -6,13 +6,17 @@ namespace Quiz
 {
     class Model
     {
-        public int Id { get; }
-        public string Question { get; set; }
-        public string Answer { get; set; }
+        public string ?Question { get; }
+        public string ?Answer { get; }
 
-        public Model(int newId)
+        public Model(string newQuestion, string newAnswer)
         {
-            Id = newId;
+            Question = newQuestion;
+            Answer = newAnswer;
+        }
+
+        public override string ToString() {
+            return string.Format("Model: {0} {1} ", Question, Answer);
         }
     }
 }

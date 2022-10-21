@@ -10,19 +10,19 @@ namespace Quiz
     {
         public static MySqlConnection CreateConnection()
         {
-            string connStr = "server=tanulo;user=root;database=world;port=3306;password=tanulo";
-            MySqlConnection conn = new MySqlConnection(connStr);
+            string connStr = "server=localhost;user=tanulo;database=quiz;port=3306;password=tanulo";
+            MySqlConnection conn = new(connStr);
             try
             {
                 Console.WriteLine("Connecting to db...");
                 conn.Open();
-                return conn;
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
                 return null;
             }
+            return conn;
         }
         public static void CloseConnection(MySqlConnection conn)
         {
