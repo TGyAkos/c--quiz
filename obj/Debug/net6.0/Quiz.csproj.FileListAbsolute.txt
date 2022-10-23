@@ -1,0 +1,68 @@
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\Quiz.exe
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\Quiz.deps.json
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\Quiz.runtimeconfig.json
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\Quiz.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\Quiz.pdb
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\MySql.Data.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\ZstdNet.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tamaskovits Gyula\Csharp-quiz\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Tamaskovits Gyula\Csharp-quiz\obj\Debug\net6.0\Quiz.csproj.AssemblyReference.cache
+D:\Tamaskovits Gyula\Csharp-quiz\obj\Debug\net6.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tamaskovits Gyula\Csharp-quiz\obj\Debug\net6.0\Quiz.AssemblyInfoInputs.cache
+D:\Tamaskovits Gyula\Csharp-quiz\obj\Debug\net6.0\Quiz.AssemblyInfo.cs
+D:\Tamaskovits Gyula\Csharp-quiz\obj\Debug\net6.0\Quiz.csproj.CoreCompileInputs.cache
+D:\Tamaskovits Gyula\Csharp-quiz\obj\Debug\net6.0\Quiz.csproj.CopyComplete
+D:\Tamaskovits Gyula\Csharp-quiz\obj\Debug\net6.0\Quiz.dll
+D:\Tamaskovits Gyula\Csharp-quiz\obj\Debug\net6.0\refint\Quiz.dll
+D:\Tamaskovits Gyula\Csharp-quiz\obj\Debug\net6.0\Quiz.pdb
+D:\Tamaskovits Gyula\Csharp-quiz\obj\Debug\net6.0\Quiz.genruntimeconfig.cache
+D:\Tamaskovits Gyula\Csharp-quiz\obj\Debug\net6.0\ref\Quiz.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\Quiz.exe
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\Quiz.deps.json
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\Quiz.runtimeconfig.json
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\Quiz.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\Quiz.pdb
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\MySql.Data.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\ZstdNet.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\obj\Debug\net6.0\Quiz.csproj.AssemblyReference.cache
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\obj\Debug\net6.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\obj\Debug\net6.0\Quiz.AssemblyInfoInputs.cache
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\obj\Debug\net6.0\Quiz.AssemblyInfo.cs
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\obj\Debug\net6.0\Quiz.csproj.CoreCompileInputs.cache
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\obj\Debug\net6.0\Quiz.csproj.CopyComplete
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\obj\Debug\net6.0\Quiz.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\obj\Debug\net6.0\refint\Quiz.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\obj\Debug\net6.0\Quiz.pdb
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\obj\Debug\net6.0\Quiz.genruntimeconfig.cache
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\c--quiz\obj\Debug\net6.0\ref\Quiz.dll
