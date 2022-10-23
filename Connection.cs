@@ -6,11 +6,11 @@ using MySql.Data.MySqlClient;
 
 namespace Quiz
 {
-    class Connection
+    internal class Connection
     {
         public static MySqlConnection CreateConnection()
         {
-            string connStr = "server=localhost;user=tanulo;database=quiz;port=3306;password=tanulo";
+            string connStr = "server=localhost;user=root;database=quiz;port=3306;password=";
             MySqlConnection conn = new(connStr);
             try
             {
